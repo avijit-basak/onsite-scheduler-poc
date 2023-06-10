@@ -1,0 +1,1396 @@
+{
+	"workers": [
+		{
+			"sequence": 1,
+			"skillCodeLevelMap": {
+				"1009": 7,
+				"1005": 9
+			},
+			"location": {
+				"latitude": 22.90837,
+				"longitude": 72.66139
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 2,
+			"skillCodeLevelMap": {
+				"1004": 6
+			},
+			"location": {
+				"latitude": 23.0031,
+				"longitude": 72.46674
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 3,
+			"skillCodeLevelMap": {
+				"1007": 6
+			},
+			"location": {
+				"latitude": 23.05633,
+				"longitude": 72.47853
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 4,
+			"skillCodeLevelMap": {
+				"1006": 7,
+				"1007": 6
+			},
+			"location": {
+				"latitude": 23.07364,
+				"longitude": 72.56046
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 5,
+			"skillCodeLevelMap": {
+				"1001": 6
+			},
+			"location": {
+				"latitude": 23.13376,
+				"longitude": 72.59298
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 6,
+			"skillCodeLevelMap": {
+				"1001": 5,
+				"1002": 7
+			},
+			"location": {
+				"latitude": 23.07743,
+				"longitude": 72.67298
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 7,
+			"skillCodeLevelMap": {
+				"1008": 6
+			},
+			"location": {
+				"latitude": 22.99268,
+				"longitude": 72.58421
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 8,
+			"skillCodeLevelMap": {
+				"1008": 9
+			},
+			"location": {
+				"latitude": 22.94124,
+				"longitude": 72.55939
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 9,
+			"skillCodeLevelMap": {
+				"1008": 9,
+				"1003": 7
+			},
+			"location": {
+				"latitude": 23.01057,
+				"longitude": 72.6365
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 10,
+			"skillCodeLevelMap": {
+				"1005": 9
+			},
+			"location": {
+				"latitude": 23.06514,
+				"longitude": 72.61699
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 11,
+			"skillCodeLevelMap": {
+				"1001": 5,
+				"1007": 6
+			},
+			"location": {
+				"latitude": 23.09935,
+				"longitude": 72.46928
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 12,
+			"skillCodeLevelMap": {
+				"1010": 6,
+				"1006": 9
+			},
+			"location": {
+				"latitude": 23.04012,
+				"longitude": 72.68493
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 13,
+			"skillCodeLevelMap": {
+				"1008": 7,
+				"1001": 6
+			},
+			"location": {
+				"latitude": 23.09753,
+				"longitude": 72.51601
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 14,
+			"skillCodeLevelMap": {
+				"1009": 5
+			},
+			"location": {
+				"latitude": 23.11765,
+				"longitude": 72.61643
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 15,
+			"skillCodeLevelMap": {
+				"1003": 8,
+				"1004": 9
+			},
+			"location": {
+				"latitude": 23.06238,
+				"longitude": 72.57385
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 16,
+			"skillCodeLevelMap": {
+				"1001": 6
+			},
+			"location": {
+				"latitude": 23.05722,
+				"longitude": 72.46667
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 17,
+			"skillCodeLevelMap": {
+				"1001": 7
+			},
+			"location": {
+				"latitude": 23.08038,
+				"longitude": 72.56922
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 18,
+			"skillCodeLevelMap": {
+				"1009": 5,
+				"1002": 8
+			},
+			"location": {
+				"latitude": 23.03672,
+				"longitude": 72.59133
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 19,
+			"skillCodeLevelMap": {
+				"1004": 7,
+				"1005": 8
+			},
+			"location": {
+				"latitude": 22.9156,
+				"longitude": 72.6846
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		},
+		{
+			"sequence": 20,
+			"skillCodeLevelMap": {
+				"1006": 9
+			},
+			"location": {
+				"latitude": 22.94543,
+				"longitude": 72.56888
+			},
+			"distanceTravelled": 0.0,
+			"availabilitySlots": [
+				{
+					"startTime": "2022-08-14 09:00:00",
+					"endTime": "2022-08-14 20:00:00"
+				}
+			]
+		}
+	],
+	"jobs": [
+		{
+			"id": 1,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 16,
+			"priority": 5,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 23.0479,
+				"longitude": 72.52577
+			}
+		},
+		{
+			"id": 2,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 17,
+			"priority": 4,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.08064,
+				"longitude": 72.58464
+			}
+		},
+		{
+			"id": 3,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 50,
+			"priority": 4,
+			"skillCodes": [
+				1001
+			],
+			"location": {
+				"latitude": 22.97323,
+				"longitude": 72.46634
+			}
+		},
+		{
+			"id": 4,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 32,
+			"priority": 7,
+			"skillCodes": [
+				1004
+			],
+			"location": {
+				"latitude": 23.12777,
+				"longitude": 72.54387
+			}
+		},
+		{
+			"id": 5,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 59,
+			"priority": 7,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.07148,
+				"longitude": 72.58881
+			}
+		},
+		{
+			"id": 6,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 59,
+			"priority": 9,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 23.13589,
+				"longitude": 72.5349
+			}
+		},
+		{
+			"id": 7,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 20,
+			"priority": 2,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 23.1238,
+				"longitude": 72.63136
+			}
+		},
+		{
+			"id": 8,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 42,
+			"priority": 2,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 23.0274,
+				"longitude": 72.61709
+			}
+		},
+		{
+			"id": 9,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 44,
+			"priority": 5,
+			"skillCodes": [
+				1010
+			],
+			"location": {
+				"latitude": 22.98585,
+				"longitude": 72.48621
+			}
+		},
+		{
+			"id": 10,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 25,
+			"priority": 5,
+			"skillCodes": [
+				1008
+			],
+			"location": {
+				"latitude": 22.98057,
+				"longitude": 72.62902
+			}
+		},
+		{
+			"id": 11,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 31,
+			"priority": 8,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 22.94718,
+				"longitude": 72.667
+			}
+		},
+		{
+			"id": 12,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 26,
+			"priority": 8,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 23.00474,
+				"longitude": 72.50187
+			}
+		},
+		{
+			"id": 13,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 17,
+			"priority": 3,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 22.93165,
+				"longitude": 72.57271
+			}
+		},
+		{
+			"id": 14,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 34,
+			"priority": 6,
+			"skillCodes": [
+				1004
+			],
+			"location": {
+				"latitude": 22.93551,
+				"longitude": 72.68291
+			}
+		},
+		{
+			"id": 15,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 33,
+			"priority": 4,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 23.01169,
+				"longitude": 72.61934
+			}
+		},
+		{
+			"id": 16,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 42,
+			"priority": 6,
+			"skillCodes": [
+				1005
+			],
+			"location": {
+				"latitude": 22.9797,
+				"longitude": 72.49691
+			}
+		},
+		{
+			"id": 17,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 44,
+			"priority": 8,
+			"skillCodes": [
+				1005
+			],
+			"location": {
+				"latitude": 22.95267,
+				"longitude": 72.53632
+			}
+		},
+		{
+			"id": 18,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 17,
+			"priority": 9,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 23.09437,
+				"longitude": 72.66879
+			}
+		},
+		{
+			"id": 19,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 46,
+			"priority": 6,
+			"skillCodes": [
+				1008
+			],
+			"location": {
+				"latitude": 23.11521,
+				"longitude": 72.48172
+			}
+		},
+		{
+			"id": 20,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 59,
+			"priority": 7,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 22.93658,
+				"longitude": 72.46234
+			}
+		},
+		{
+			"id": 21,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 14,
+			"priority": 7,
+			"skillCodes": [
+				1005
+			],
+			"location": {
+				"latitude": 23.02243,
+				"longitude": 72.58099
+			}
+		},
+		{
+			"id": 22,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 41,
+			"priority": 7,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.10307,
+				"longitude": 72.49801
+			}
+		},
+		{
+			"id": 23,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 48,
+			"priority": 1,
+			"skillCodes": [
+				1005
+			],
+			"location": {
+				"latitude": 23.05992,
+				"longitude": 72.50686
+			}
+		},
+		{
+			"id": 24,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 59,
+			"priority": 7,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.12491,
+				"longitude": 72.68487
+			}
+		},
+		{
+			"id": 25,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 56,
+			"priority": 7,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 23.07211,
+				"longitude": 72.52601
+			}
+		},
+		{
+			"id": 26,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 14,
+			"priority": 8,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 23.12191,
+				"longitude": 72.61347
+			}
+		},
+		{
+			"id": 27,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 44,
+			"priority": 2,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 23.00378,
+				"longitude": 72.62207
+			}
+		},
+		{
+			"id": 28,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 44,
+			"priority": 9,
+			"skillCodes": [
+				1010
+			],
+			"location": {
+				"latitude": 22.99036,
+				"longitude": 72.56695
+			}
+		},
+		{
+			"id": 29,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 54,
+			"priority": 7,
+			"skillCodes": [
+				1010
+			],
+			"location": {
+				"latitude": 23.11522,
+				"longitude": 72.6774
+			}
+		},
+		{
+			"id": 30,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 28,
+			"priority": 4,
+			"skillCodes": [
+				1005
+			],
+			"location": {
+				"latitude": 22.94056,
+				"longitude": 72.48394
+			}
+		},
+		{
+			"id": 31,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 22,
+			"priority": 5,
+			"skillCodes": [
+				1001
+			],
+			"location": {
+				"latitude": 23.04803,
+				"longitude": 72.5722
+			}
+		},
+		{
+			"id": 32,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 22,
+			"priority": 6,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 23.04491,
+				"longitude": 72.61853
+			}
+		},
+		{
+			"id": 33,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 24,
+			"priority": 9,
+			"skillCodes": [
+				1001
+			],
+			"location": {
+				"latitude": 22.9249,
+				"longitude": 72.4766
+			}
+		},
+		{
+			"id": 34,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 12,
+			"priority": 3,
+			"skillCodes": [
+				1001
+			],
+			"location": {
+				"latitude": 23.01868,
+				"longitude": 72.50753
+			}
+		},
+		{
+			"id": 35,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 18,
+			"priority": 5,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 22.94086,
+				"longitude": 72.66401
+			}
+		},
+		{
+			"id": 36,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 36,
+			"priority": 5,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 23.01252,
+				"longitude": 72.63688
+			}
+		},
+		{
+			"id": 37,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 25,
+			"priority": 2,
+			"skillCodes": [
+				1010
+			],
+			"location": {
+				"latitude": 23.10346,
+				"longitude": 72.47606
+			}
+		},
+		{
+			"id": 38,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 41,
+			"priority": 2,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 22.91104,
+				"longitude": 72.46347
+			}
+		},
+		{
+			"id": 39,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 35,
+			"priority": 2,
+			"skillCodes": [
+				1008
+			],
+			"location": {
+				"latitude": 23.06854,
+				"longitude": 72.55752
+			}
+		},
+		{
+			"id": 40,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 57,
+			"priority": 6,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 23.1337,
+				"longitude": 72.56956
+			}
+		},
+		{
+			"id": 41,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 54,
+			"priority": 8,
+			"skillCodes": [
+				1008
+			],
+			"location": {
+				"latitude": 22.93,
+				"longitude": 72.59729
+			}
+		},
+		{
+			"id": 42,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 28,
+			"priority": 8,
+			"skillCodes": [
+				1004
+			],
+			"location": {
+				"latitude": 23.05899,
+				"longitude": 72.58412
+			}
+		},
+		{
+			"id": 43,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 27,
+			"priority": 2,
+			"skillCodes": [
+				1001
+			],
+			"location": {
+				"latitude": 23.07903,
+				"longitude": 72.60887
+			}
+		},
+		{
+			"id": 44,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 55,
+			"priority": 3,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.01212,
+				"longitude": 72.67327
+			}
+		},
+		{
+			"id": 45,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 43,
+			"priority": 4,
+			"skillCodes": [
+				1004
+			],
+			"location": {
+				"latitude": 22.98895,
+				"longitude": 72.55974
+			}
+		},
+		{
+			"id": 46,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 48,
+			"priority": 3,
+			"skillCodes": [
+				1005
+			],
+			"location": {
+				"latitude": 22.96528,
+				"longitude": 72.53254
+			}
+		},
+		{
+			"id": 47,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 58,
+			"priority": 7,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 22.91389,
+				"longitude": 72.61256
+			}
+		},
+		{
+			"id": 48,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 13,
+			"priority": 1,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 22.90974,
+				"longitude": 72.57391
+			}
+		},
+		{
+			"id": 49,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 12,
+			"priority": 9,
+			"skillCodes": [
+				1004
+			],
+			"location": {
+				"latitude": 22.96504,
+				"longitude": 72.51905
+			}
+		},
+		{
+			"id": 50,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 23,
+			"priority": 5,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 23.01338,
+				"longitude": 72.66312
+			}
+		},
+		{
+			"id": 51,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 53,
+			"priority": 1,
+			"skillCodes": [
+				1008
+			],
+			"location": {
+				"latitude": 22.94281,
+				"longitude": 72.56038
+			}
+		},
+		{
+			"id": 52,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 43,
+			"priority": 8,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 22.91994,
+				"longitude": 72.50436
+			}
+		},
+		{
+			"id": 53,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 20,
+			"priority": 9,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 22.95633,
+				"longitude": 72.46108
+			}
+		},
+		{
+			"id": 54,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 17,
+			"priority": 7,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 23.06421,
+				"longitude": 72.51182
+			}
+		},
+		{
+			"id": 55,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 23,
+			"priority": 6,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 22.97598,
+				"longitude": 72.63687
+			}
+		},
+		{
+			"id": 56,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 32,
+			"priority": 9,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 22.94861,
+				"longitude": 72.59825
+			}
+		},
+		{
+			"id": 57,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 21,
+			"priority": 4,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 22.99356,
+				"longitude": 72.56949
+			}
+		},
+		{
+			"id": 58,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 31,
+			"priority": 2,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.11492,
+				"longitude": 72.58787
+			}
+		},
+		{
+			"id": 59,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 29,
+			"priority": 2,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 23.01184,
+				"longitude": 72.66378
+			}
+		},
+		{
+			"id": 60,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 20,
+			"priority": 1,
+			"skillCodes": [
+				1001
+			],
+			"location": {
+				"latitude": 23.00251,
+				"longitude": 72.49947
+			}
+		},
+		{
+			"id": 61,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 31,
+			"priority": 8,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 22.95416,
+				"longitude": 72.54857
+			}
+		},
+		{
+			"id": 62,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 51,
+			"priority": 7,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 22.98998,
+				"longitude": 72.4932
+			}
+		},
+		{
+			"id": 63,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 43,
+			"priority": 8,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.05354,
+				"longitude": 72.61816
+			}
+		},
+		{
+			"id": 64,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 27,
+			"priority": 5,
+			"skillCodes": [
+				1004
+			],
+			"location": {
+				"latitude": 23.10993,
+				"longitude": 72.47439
+			}
+		},
+		{
+			"id": 65,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 21,
+			"priority": 7,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.02457,
+				"longitude": 72.68375
+			}
+		},
+		{
+			"id": 66,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 37,
+			"priority": 3,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 22.97676,
+				"longitude": 72.68391
+			}
+		},
+		{
+			"id": 67,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 27,
+			"priority": 9,
+			"skillCodes": [
+				1007
+			],
+			"location": {
+				"latitude": 23.10716,
+				"longitude": 72.51644
+			}
+		},
+		{
+			"id": 68,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 18,
+			"priority": 4,
+			"skillCodes": [
+				1010
+			],
+			"location": {
+				"latitude": 22.95448,
+				"longitude": 72.52614
+			}
+		},
+		{
+			"id": 69,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 32,
+			"priority": 5,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 23.06196,
+				"longitude": 72.4755
+			}
+		},
+		{
+			"id": 70,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 34,
+			"priority": 4,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 22.95749,
+				"longitude": 72.5613
+			}
+		},
+		{
+			"id": 71,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 56,
+			"priority": 7,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 23.13724,
+				"longitude": 72.49868
+			}
+		},
+		{
+			"id": 72,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 47,
+			"priority": 1,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 22.98915,
+				"longitude": 72.61808
+			}
+		},
+		{
+			"id": 73,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 57,
+			"priority": 3,
+			"skillCodes": [
+				1010
+			],
+			"location": {
+				"latitude": 22.98573,
+				"longitude": 72.6787
+			}
+		},
+		{
+			"id": 74,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 28,
+			"priority": 3,
+			"skillCodes": [
+				1008
+			],
+			"location": {
+				"latitude": 22.99627,
+				"longitude": 72.54554
+			}
+		},
+		{
+			"id": 75,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 26,
+			"priority": 6,
+			"skillCodes": [
+				1009
+			],
+			"location": {
+				"latitude": 23.04593,
+				"longitude": 72.6476
+			}
+		},
+		{
+			"id": 76,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 25,
+			"priority": 8,
+			"skillCodes": [
+				1003
+			],
+			"location": {
+				"latitude": 23.04123,
+				"longitude": 72.65174
+			}
+		},
+		{
+			"id": 77,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 28,
+			"priority": 1,
+			"skillCodes": [
+				1004
+			],
+			"location": {
+				"latitude": 23.13128,
+				"longitude": 72.62995
+			}
+		},
+		{
+			"id": 78,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 49,
+			"priority": 2,
+			"skillCodes": [
+				1006
+			],
+			"location": {
+				"latitude": 23.04932,
+				"longitude": 72.48059
+			}
+		},
+		{
+			"id": 79,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 37,
+			"priority": 4,
+			"skillCodes": [
+				1008
+			],
+			"location": {
+				"latitude": 23.03283,
+				"longitude": 72.58595
+			}
+		},
+		{
+			"id": 80,
+			"slaTime": "2022-08-14 20:00:00",
+			"expectedCompletionDuration": 40,
+			"priority": 2,
+			"skillCodes": [
+				1010
+			],
+			"location": {
+				"latitude": 23.08254,
+				"longitude": 72.48271
+			}
+		}
+	]
+}
