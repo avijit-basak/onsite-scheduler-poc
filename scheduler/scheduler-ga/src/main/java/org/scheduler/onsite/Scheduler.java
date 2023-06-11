@@ -84,9 +84,6 @@ public class Scheduler {
 		mapper.setVisibility(PropertyAccessor.FIELD, Visibility.ANY);
 		try (InputStream is = this.getClass().getClassLoader().getResourceAsStream("ScheduleCriteria.json")) {
 			SchedulingCriteriaVO scheduleCriteriaVO = mapper.readValue(is, SchedulingCriteriaVO.class);
-//			String jsonString2 = mapper.writeValueAsString(scheduleCriteriaVO);
-//			System.out.println(jsonString2);
-//			System.out.println("****************************************************");
 
 			List<Worker> workers = new ArrayList<Worker>();
 			List<Job> jobs = new ArrayList<Job>();

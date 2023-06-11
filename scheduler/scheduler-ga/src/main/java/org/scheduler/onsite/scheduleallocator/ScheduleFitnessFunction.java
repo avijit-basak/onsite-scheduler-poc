@@ -151,25 +151,18 @@ public class ScheduleFitnessFunction implements FitnessFunction {
 
 				// calculate job execution cost.
 				jobExecutionCost += travelDistance;
-				if (enablePrint) {
-					System.out.println("normalizedTravelDistance : " + travelDistance + ", jobExecutionCost : "
-							+ jobExecutionCost);
-				}
 			}
 		}
 		for (Worker worker : workerLocationMap.keySet()) {
 			jobExecutionCost += locationDistanceCalculator.calculateDistance(worker.getLocation(),
 					workerLocationMap.get(worker));
-			if (enablePrint) {
-				System.out.println("jobExecutionCost : " + jobExecutionCost);
-			}
 		}
 
 		return -jobExecutionCost;
 
 	}
 
-	public double evaluateDelayCost(ScheduleChromosome scheduleChromosome, boolean enablePrint) {
+	public double evaluateDelayCost(ScheduleChromosome scheduleChromosome) {
 
 		List<Worker> workers = scheduleChromosome.getWorkers();
 		List<Integer> jobExecutionSequence = scheduleChromosome.decode(getJobIds(workers.size()));
@@ -231,10 +224,6 @@ public class ScheduleFitnessFunction implements FitnessFunction {
 				// calculate job execution delay cost.
 				jobExecutionCost += job.getPriority() / AVG_JOB_PRIORITY
 						* Math.exp(delayInCompletion / DEFAULT_MAX_SLA);
-				if (enablePrint) {
-					System.out.println(
-							"delayInCompletion : " + delayInCompletion + ", jobExecutionCost : " + jobExecutionCost);
-				}
 			}
 		}
 
@@ -292,11 +281,6 @@ public class ScheduleFitnessFunction implements FitnessFunction {
 			expectedJobCompletionTime.add(Calendar.MINUTE, travelTime);
 			expectedJobCompletionTime.add(Calendar.MINUTE, expectedCompletionDuration);
 
-			// If no slots are available for the worker return -Infinity to reject the
-			// schedule.
-//			if (worker.findSlot(workerAvailabilityTime, expectedJobCompletionTime) == null) {
-//				return -Double.MAX_VALUE;
-//			} else {
 			workerAvailabilityMap.put(worker, expectedJobCompletionTime);
 			workerLocationMap.put(worker, job.getLocation());
 
@@ -310,18 +294,6 @@ public class ScheduleFitnessFunction implements FitnessFunction {
 			// calculate job execution cost.
 			jobExecutionCost += travelWeight * normalizedTravelDistance
 					+ slaWeight * job.getPriority() / AVG_JOB_PRIORITY * Math.exp(delayInCompletion / DEFAULT_MAX_SLA);
-
-//				System.out.println("travelWeight * normalizedTravelDistance : "
-//						+ travelWeight * normalizedTravelDistance + ", delayInCompletion : " + delayInCompletion
-//						+ ", slaWeight * job.getPriority() * Math.exp(delayInCompletion) / defaultMaxSLA: "
-//						+ slaWeight * job.getPriority() * Math.exp(delayInCompletion / DEFAULT_MAX_SLA)
-//						+ ", jobExecutionCost : " + jobExecutionCost);
-
-			if (enablePrint) {
-				System.out.println("normalizedTravelDistance : " + normalizedTravelDistance + ", delayInCompletion : "
-						+ delayInCompletion + ", jobExecutionCost : " + jobExecutionCost);
-			}
-//			}
 		}
 		for (Worker worker : workerLocationMap.keySet()) {
 			double distance = locationDistanceCalculator.calculateDistance(worker.getLocation(),
@@ -330,9 +302,6 @@ public class ScheduleFitnessFunction implements FitnessFunction {
 			// Add home return time
 			workerAvailabilityMap.get(worker).add(Calendar.MINUTE, (int) locationDistanceCalculator
 					.calculateTravelTime(worker.getLocation(), workerLocationMap.get(worker)));
-			if (enablePrint) {
-				System.out.println("jobExecutionCost : " + jobExecutionCost);
-			}
 		}
 
 		long overtimeInMinutes = 0;
@@ -351,7 +320,6 @@ public class ScheduleFitnessFunction implements FitnessFunction {
 		}
 
 		jobExecutionCost += overtimeWeight * overtimeInMinutes / maxOvertime;
-//		System.out.println("completed fitness computation");
 
 		return -jobExecutionCost;
 	}

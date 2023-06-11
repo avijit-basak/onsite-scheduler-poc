@@ -60,7 +60,7 @@ public class FixedGenerationCountStoppingCondition implements StoppingCondition 
 			distanceCostPlotter.addDataPoint("distance-" + plotNameSuffix, generationCount,
 					Math.abs(scheduleFitnessFunction.evaluateTravelCost(chromosome, false)));
 			delayCostPlotter.addDataPoint("delay-" + plotNameSuffix, generationCount,
-					Math.abs(scheduleFitnessFunction.evaluateDelayCost(chromosome, false)));
+					Math.abs(scheduleFitnessFunction.evaluateDelayCost(chromosome)));
 			overtimeCostPlotter.addDataPoint("overtime-" + plotNameSuffix, generationCount,
 					Math.abs(scheduleFitnessFunction.evaluateOvertimeCost(chromosome, false)));
 		}

@@ -21,8 +21,6 @@ public class SchedulerGeneticAlgorithm extends GeneticAlgorithm {
 
 	@Override
 	public Population nextGeneration(Population current) {
-//		System.out.println("Generation : " + generationCount);
-//		System.out.println("the fittest chromosome: " + current.getFittestChromosome());
 		generationCount = generationCount + 1;
 
 		Population nextGeneration = current.nextGeneration();
